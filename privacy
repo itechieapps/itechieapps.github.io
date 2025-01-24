@@ -1,50 +1,50 @@
-How your information handled in this app!
-Third-party collected data
-
-The App uses several third parties in order to improve service quality. These parties collect their own data. Please read their privacy policies (see the links below) to ensure that you’re comfortable with the manner in which they collect data.
-
-Ads
-The free version of our android Application from out third party ad providers. Currently we are using the following ad provider:
-
-Advertising ID
-Our ad networks can access your advertising id in order to show relevant ads.
-
-You can read our ad networks privacy policy clicking on their names below:
- 
-Meta Audience Network
-Applovin
-Iron source
- 
-Opt out of interest based ads
-
-You can Opt out interest based or personalised advertisements on your device by changing advertising settings on ur Android mobile device.
-
- 
-
-Log Data
-
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
-
-
-Analytics services
-We use an analytics tools called
- 
-Facebook Analytics
-Firebase
-in order to gain insight into how our app is being used. The features used in the analytics include Google Analytics for Firebase, Firebase Remote Config, Firebase Dynamic Links.
-Certain types of information is automatically collected via Firebase and facebook analytics this includes Mobile ad IDs, IDFVs/Android IDs, Instance IDs, and Analytics App Instance IDs.
- 
- 
-How sensitive and non sensitive permissions are used and handled.
-
-
-To create ringtone, play ringotne and save ringtone no permission is required. To set ringtone to your device directly form this app WRITE SYSTEM SETTING permission is required. Alternatively, if you don't want to allow this permission, you can set ringtone from your phone's setting ringtone section andchoosing the ringtone created by this app. Note: This permission is only used to set ringtone to your device by this app. You can disable permission for this app anytime from your phone setting.To set ringtone to specific contact, CONTACT PERMISSION is required. READ CONTACT PERMISSION is required to show you list of contacts and WRITE CONTACT PERMISSION is required to set ringtone to the specific contact. \nDisclaimer: The only purpose of this permission is to show you list of contacts to make selection and to assign ringtone to your selected contact. Your contact list is not shared with any one in any condition. This app does not save your contacts to its server. Alternatively, if you don't want to allow this permission to this app. You can set ringtone to any contact visiting you phone's contact custom ringtone setting. However, this option may/may not be available on all devices. To disable permission given to this app you can visit your phone setting and look for this app and disable granted permission. To make this easy we have also added permission list option in setting of this app. You can easily click on specific permission and that will take you to phone setting where you can disable permissons for this app."
- 
-Changes to the Privacy Policy
-
-Stech Innovative may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.
-
-
-
-Terms of service 
-Queries  : email - stech.innovative@gmail.com
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">How your information handled in this app!</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <h3 style="color:rgb(117, 117, 117);font-size:16px;"><strong>Third-party collected data</strong></h3>
+    <p>The App uses several third parties in order to improve service quality. These parties collect their own data. Please read their privacy policies (see the links below) to ensure that you’re comfortable with the manner in which they collect data.<br><br><strong>Ads</strong><br>The free version of our android Application from out third party ad providers. Currently we are using the following ad provider:</p>
+</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;"><strong>Advertising ID</strong><br>Our ad networks can access your advertising id in order to show relevant ads.</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">You can read our ad networks privacy policy clicking on their names below:</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<ul style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <li><a style="color:rgb(33, 150, 243);text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/">Meta Audience Network</a></li>
+    <li><a style="color:rgb(33, 150, 243);text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://www.applovin.com/privacy/">Applovin</a></li>
+    <li><a style="color:rgb(33, 150, 243);text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/">Iron source</a></li>
+</ul>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <h3 style="color:rgb(117, 117, 117);font-size:16px;" id="information">Opt out of interest based ads</h3>
+    <p id="information_1">You can Opt out interest based or personalised advertisements on your device by changing advertising settings on ur Android mobile device.</p>
+    <p>&nbsp;</p>
+    <p><strong>Log Data</strong></p>
+    <p>We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</p>
+</div>
+<p><br>&nbsp;</p>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <p><strong>Analytics services</strong><br>We use an analytics tools called</p>
+</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<ul style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <li>Facebook Analytics</li>
+    <li><a style="color:rgb(33, 150, 243);text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/support/privacy">Firebase</a></li>
+</ul>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">in order to gain insight into how our app is being used. The features used in the analytics include Google Analytics for Firebase, Firebase Remote Config, Firebase Dynamic Links.<br>Certain types of information is automatically collected via Firebase and facebook analytics this includes Mobile ad IDs, IDFVs/Android IDs, Instance IDs, and Analytics App Instance IDs.</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<h3 style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">How sensitive and non sensitive permissions are used and handled.</h3>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <pre style="font-family:monospace, monospace;font-size:1em;overflow:auto;">&nbsp;</pre>
+</div>
+<p><br>&nbsp;</p>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <p>To create ringtone, play ringotne and save ringtone no permission is required. To set ringtone to your device directly form this app WRITE SYSTEM SETTING permission is required. Alternatively, if you don't want to allow this permission, you can set ringtone from your phone's setting ringtone section andchoosing the ringtone created by this app. Note: This permission is only used to set ringtone to your device by this app. You can disable permission for this app anytime from your phone setting.To set ringtone to specific contact, CONTACT PERMISSION is required. READ CONTACT PERMISSION is required to show you list of contacts and WRITE CONTACT PERMISSION is required to set ringtone to the specific contact. \nDisclaimer: The only purpose of this permission is to show you list of contacts to make selection and to assign ringtone to your selected contact. Your contact list is not shared with any one in any condition. This app does not save your contacts to its server. Alternatively, if you don't want to allow this permission to this app. You can set ringtone to any contact visiting you phone's contact custom ringtone setting. However, this option may/may not be available on all devices. To disable permission given to this app you can visit your phone setting and look for this app and disable granted permission. To make this easy we have also added permission list option in setting of this app. You can easily click on specific permission and that will take you to phone setting where you can disable permissons for this app."</p>
+</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">&nbsp;</div>
+<div style="-webkit-text-stroke-width:0px;caret-color:rgb(117, 117, 117);color:rgb(117, 117, 117);font-family:Roboto, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">
+    <p><strong>Changes to the Privacy Policy</strong></p>
+    <p>Stech Innovative may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.</p>
+    <p>&nbsp;</p>
+    <p>Queries &nbsp;: email - <span style="background-color:rgb(255,255,255);color:rgb(95,99,104);font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;"><span style="-webkit-text-stroke-width:0px;caret-color:rgb(95, 99, 104);display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:0.2px;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;">Techieapps754@outlook.com</span></span></p>
+</div>
