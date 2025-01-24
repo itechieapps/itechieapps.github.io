@@ -1,0 +1,11 @@
+facebook.com, 1615008538931468, RESELLER, c3e20eee3f780d68
+facebook.com, 264655212487362, RESELLER, c3e20eee3f780d68
+facebook.com, 1178552713061259, RESELLER, c3e20eee3f780d68
+google.com, pub-1559199856168510, DIRECT, f08c47fec0942fa0
+
+
+
+applovin.com, c727c5543f894b49168a9bc67811002b, DIRECT
+
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 1729, DIRECT
